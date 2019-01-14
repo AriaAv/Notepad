@@ -1,0 +1,49 @@
+D:\mynotepad3\mynotepad3\bin\Debug\mynotepad3.exe
+D:\mynotepad3\mynotepad3\bin\Debug\mynotepad3.pdb
+D:\mynotepad3\mynotepad3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Form1.resources
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Properties.Resources.resources
+D:\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.frmgoto.resources
+D:\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Frmfind.resources
+C:\Users\saeid\Desktop\11\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Users\saeid\Desktop\11\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Form1.resources
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Frmfind.resources
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.frmgoto.resources
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Properties.Resources.resources
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\bin\Debug\mynotepad3.exe
+C:\Users\saeid\Desktop\mynotepad3\mynotepad3\bin\Debug\mynotepad3.pdb
+C:\Users\saeid\Desktop\New folder (3)\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Users\saeid\Desktop\New folder (3)\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\bin\Debug\mynotepad3.exe
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\bin\Debug\mynotepad3.pdb
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Form1.resources
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Frmfind.resources
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.frmgoto.resources
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Properties.Resources.resources
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sama\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AriA PC\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Users\AriA PC\Desktop\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\bin\Debug\mynotepad3.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\bin\Debug\mynotepad3.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Form1.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Frmfind.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.frmgoto.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.Properties.Resources.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.csproj.CoreCompileInputs.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\mynotepad3\mynotepad3\obj\x86\Debug\mynotepad3.pdb

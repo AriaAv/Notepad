@@ -1,0 +1,59 @@
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\bin\Debug\notepade1.exe
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\bin\Debug\notepade1.pdb
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+c:\users\saeid\documents\visual studio 2010\Projects\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\bin\Debug\notepade1.exe
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\bin\Debug\notepade1.pdb
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sama\Desktop\notepade1\notepade1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmfind.resources
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.csproj.GenerateResource.Cache
+C:\Users\AriA PC\Desktop\notepade1\notepade1\bin\Debug\notepade1.exe
+C:\Users\AriA PC\Desktop\notepade1\notepade1\bin\Debug\notepade1.pdb
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmreplace.resources
+C:\Users\AriA PC\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmgoto.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
+I:\notepade1\notepade1\bin\Debug\notepade1.exe
+I:\notepade1\notepade1\bin\Debug\notepade1.pdb
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.frmfind.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.frmreplace.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.frmgoto.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+I:\notepade1\notepade1\obj\x86\Debug\notepade1.csproj.GenerateResource.Cache
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\bin\Debug\notepade1.exe
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\bin\Debug\notepade1.pdb
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmfind.resources
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmreplace.resources
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.frmgoto.resources
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+C:\Users\AriA PC\Desktop\Desktop\notepade1\notepade1\obj\x86\Debug\notepade1.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\bin\Debug\notepade1.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\bin\Debug\notepade1.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.Form1.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.frmfind.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.frmreplace.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.frmgoto.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.Properties.Resources.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.csproj.CoreCompileInputs.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\C#\notepade1\notepade1\obj\x86\Debug\notepade1.pdb
